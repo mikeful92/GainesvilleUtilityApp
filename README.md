@@ -10,8 +10,15 @@ Gainesville Open Data Portal:
 https://data.cityofgainesville.org
 
 Needed modules:
+
+<li>
+<ul>
 -csv
+</ul>
+<ul>
 -prettytable
+</ul>
+</il>
 
 Both should be easy to download wiht the command:
 pip install csv
